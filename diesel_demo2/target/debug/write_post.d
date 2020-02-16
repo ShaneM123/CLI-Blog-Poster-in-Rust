@@ -1,0 +1,1 @@
+/home/shane/IdeaProjects/diesel_demo2/target/debug/write_post: /home/shane/IdeaProjects/diesel_demo2/src/bin/write_post.rs /home/shane/IdeaProjects/diesel_demo2/src/lib.rs /home/shane/IdeaProjects/diesel_demo2/src/models.rs /home/shane/IdeaProjects/diesel_demo2/src/schema.rs
